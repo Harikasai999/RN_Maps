@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/stellent/Documents/MapApp/node_modules/react-native/Libraries/Vibration/RCTVibration.m \
+  /Users/stellent/Documents/MapApp/node_modules/react-native/Libraries/Vibration/RCTVibration.h \
+  /Users/stellent/Documents/MapApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/stellent/Documents/MapApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h
